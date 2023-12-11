@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+    <path d="M75,75m-75,0a75,75 0,1 1,150 0a75,75 0,1 1,-150 0">
+        <linearGradient id="gradient" x1="0" y1="75" x2="150" y2="75">
+            <stop offset="0" style="stop-color:#FFFF0200"/>
+            <stop offset="1" style="stop-color:#FFFCB500"/>
+        </linearGradient>
+        <aapt:attr name="android:fillColor" xlink:href="#gradient"/>
+    </path>
+</svg>
